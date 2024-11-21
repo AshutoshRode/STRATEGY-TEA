@@ -497,6 +497,7 @@ body {
     }
 
     .fifth-banner {
+        background-image: none !important;
         padding: 20px 0 !important;
         text-align: center;
     }
@@ -608,9 +609,12 @@ body {
         margin-right: 30% !important;
     }
 
-    .seventh-banner {}
+    .seventh-banner {
+        background-image: none !important;
+    }
 
     .seventh-banner h2 {
+        padding: 20px !important;
         font-size: 30px !important;
         line-height: 40px !important;
     }
@@ -618,6 +622,7 @@ body {
     .seventh-banner h5 {
         font-size: 30px !important;
         line-height: 40px !important;
+        padding-bottom: 20px;
     }
 
     .img-gallery img {
